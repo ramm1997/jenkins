@@ -1,5 +1,3 @@
- myu self ramesh how 
- r u my dear 
- java is a langusge it can humen readABLEakld
- lm dvkla/d vnk/ajkd v
- a dv'kljak dfv jka jd/ vjkka dvk na v 
+public class FirstJavaProgram {
+  public static void main(String[] args){
+    System.out.println("This is my first program in java");
